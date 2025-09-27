@@ -1,6 +1,6 @@
 ## EX 9 : IMPLEMENTATION OF RSA ALGORITHM
-
-
+## REG.NO:212224110035
+## DATE:27-09-2025
 ## AIM:
 
 To implement encryption and decryption using RSA algorithm.
